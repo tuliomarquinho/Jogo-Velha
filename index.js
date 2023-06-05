@@ -13,7 +13,7 @@ let playerXIcon = "fas fa-times";
 let playerOIcon = "fas fa-circulo";
 ///////////////////////////////////////////////////////////////////
 
-//DECLARANDO COMBINAÇÕES
+//DECLARANDO COMBINAÇÕES ==> MATRIZ
 const Combinacoes = [
     [0,1,2],[3,4,5],
     [6,7,8],[0,3,6],
